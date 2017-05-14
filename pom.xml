@@ -81,7 +81,8 @@
         <!-- Plugin configuration. There are many available options, see 
           gwt-maven-plugin documentation at codehaus.org -->
         <configuration>
-          <runTarget>App.html</runTarget>
+<!--           <runTarget>App.html</runTarget> -->
+          <runTarget>Ellipses.html</runTarget>
           <modules>
             <module>org.aph.App</module>
           </modules>
